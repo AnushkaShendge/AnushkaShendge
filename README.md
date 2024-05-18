@@ -35,7 +35,7 @@ I’m Anushka Shendge, a sophomore 💻 pursuing B.Tech in CSE-AIML 🎓 from Sa
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50px"/></a></code>
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50px"/></a></code>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animation%2Fprogrammer-working-on-pc-3917154&psig=AOvVaw2LyEfHb4Z2v9xPPXr9gulc&ust=1716153494398000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjk2JiQmIYDFQAAAAAdAAAAABAS" alt="animated image" width="400" height="400"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="programmer gif" width="400" height="400"/>
 
 <br>
 
@@ -79,3 +79,4 @@ I’m Anushka Shendge, a sophomore 💻 pursuing B.Tech in CSE-AIML 🎓 from Sa
 <br>
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer)
+
