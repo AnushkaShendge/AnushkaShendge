@@ -1,5 +1,3 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=header)
-
 # 👋 Hello There
 
 I’m Anushka Shendge, a sophomore 💻 pursuing B.Tech in CSE-AIML 🎓 from Sardar Patel Institute of Technology 🏛. I have a passion for exploring new technologies and applying them to solve real-life problems ✨. I'm currently working on my Web Development Skills 🕸.
@@ -73,5 +71,3 @@ I’m Anushka Shendge, a sophomore 💻 pursuing B.Tech in CSE-AIML 🎓 from Sa
   <br>
   <i>You miss 100% of the shots you don't take.</i>
 <br>
-
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer)
