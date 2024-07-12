@@ -69,5 +69,4 @@ I’m Anushka Shendge, a sophomore 💻 pursuing B.Tech in CSE-AIML 🎓 from Sa
 <p align="center">
   <i>Be the change that you wish to see in the world.</i>
   <br>
-  <i>You miss 100% of the shots you don't take.</i>
 <br>
