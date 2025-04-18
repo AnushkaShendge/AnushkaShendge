@@ -25,7 +25,7 @@
 <table border="0">
  <tr>
     <td width="50%">
-      <img src="https://api.githubtrends.io/user/svg/AnushkaShendge/repos?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=synthwaves" alt="Repo Activity" width="100%"/>
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Repo Activity" width="100%"/>
     </td>
     <td width="50%">
       <h3>DIGITAL CRAFTSMAN 👩‍💻</h3>
