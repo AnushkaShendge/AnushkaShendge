@@ -185,7 +185,7 @@ graph TD
   <h2>🔮 THE TECH ORACLE SAYS</h2>
   
   <blockquote style="font-style: italic; font-size: 18px; color: #A06CD5;">
-    "I don't just code to win hackathons… I code to build the future 💫<br>
+    "I code to build the future 💫<br>
     Let's innovate, collaborate, and break things (the good kind)."
   </blockquote>
 </div>
