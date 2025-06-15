@@ -139,32 +139,6 @@ graph TD
 ---
 
 <div align="center">
-  <h2>👾 CURRENT QUESTS</h2>
-  
-  <table width="100%">
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://api.iconify.design/ant-design:code-filled.svg?color=%23FF6B6B" width="60" height="60"/>
-        <h3>Collaborative Text Editor</h3>
-        <p>Monaco Editor + Liveblocks</p>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://api.iconify.design/bx:mobile-alt.svg?color=%234ECDC4" width="60" height="60"/>
-        <h3>Offline SOS App</h3>
-        <p>React Native + Bluetooth</p>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://api.iconify.design/fluent:brain-circuit-20-filled.svg?color=%23A06CD5" width="60" height="60"/>
-        <h3>Emotion-Responsive UI</h3>
-        <p>TensorFlow.js + React</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
   <h2>📊 BATTLE STATS</h2>
 </div>
 
